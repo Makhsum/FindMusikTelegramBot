@@ -1,0 +1,11 @@
+*.cache
+*.log
+debug/
+build/
+*.swp
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
