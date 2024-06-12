@@ -1,0 +1,17 @@
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Api/bin/Release/net6.0/publish/FindMusik.Api
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Api/bin/Release/net6.0/publish/appsettings.Development.json
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Api/bin/Release/net6.0/publish/appsettings.json
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Api/bin/Release/net6.0/publish/FindMusik.Api.dll
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Api/bin/Release/net6.0/publish/FindMusik.Api.deps.json
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Api/bin/Release/net6.0/publish/FindMusik.Api.runtimeconfig.json
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Api/bin/Release/net6.0/publish/FindMusik.Api.pdb
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Api/bin/Release/net6.0/publish/AngleSharp.dll
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Api/bin/Release/net6.0/publish/Microsoft.OpenApi.dll
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Api/bin/Release/net6.0/publish/Newtonsoft.Json.dll
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Api/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Api/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Api/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Api/bin/Release/net6.0/publish/Telegram.Bot.dll
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Api/bin/Release/net6.0/publish/YoutubeExplode.dll
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Api/bin/Release/net6.0/publish/FindMusik.Application.dll
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Api/bin/Release/net6.0/publish/FindMusik.Application.pdb

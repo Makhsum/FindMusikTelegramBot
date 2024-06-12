@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FindMusik.Domain", "FindMusik.Domain", "{1C62EC61-CAB6-46B5-84D4-3675DC94F9A3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FindMusik.Application", "FindMusik.Application", "{30297456-3C80-4E9A-9A75-628FDD30430D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FindMusik.Infrastrukture", "FindMusik.Infrastrukture", "{7AA1FA53-225F-4CB2-8BD6-D4282167476D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FindMusik.Api", "FindMusik.Api", "{386B5998-711D-4FF2-B718-8B32B918B018}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMusik.Application", "FindMusik.Application\FindMusik.Application.csproj", "{D77EB3E9-7564-4AB3-A327-F3C634F2155E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMusik.Api", "FindMusik.Api\FindMusik.Api.csproj", "{536466DB-3414-407D-81EF-5A2EAC9D7C41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMusik.Infrastructure", "FindMusik.Infrastructure\FindMusik.Infrastructure.csproj", "{7A20D81D-7201-4E26-B3FF-43DDA3484DF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMusik.Domain", "FindMusik.Domain\FindMusik.Domain.csproj", "{B51738D8-0941-4D20-87CC-11E2BF6F1855}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D77EB3E9-7564-4AB3-A327-F3C634F2155E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D77EB3E9-7564-4AB3-A327-F3C634F2155E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D77EB3E9-7564-4AB3-A327-F3C634F2155E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D77EB3E9-7564-4AB3-A327-F3C634F2155E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{536466DB-3414-407D-81EF-5A2EAC9D7C41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{536466DB-3414-407D-81EF-5A2EAC9D7C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{536466DB-3414-407D-81EF-5A2EAC9D7C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{536466DB-3414-407D-81EF-5A2EAC9D7C41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A20D81D-7201-4E26-B3FF-43DDA3484DF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A20D81D-7201-4E26-B3FF-43DDA3484DF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A20D81D-7201-4E26-B3FF-43DDA3484DF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A20D81D-7201-4E26-B3FF-43DDA3484DF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B51738D8-0941-4D20-87CC-11E2BF6F1855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51738D8-0941-4D20-87CC-11E2BF6F1855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B51738D8-0941-4D20-87CC-11E2BF6F1855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51738D8-0941-4D20-87CC-11E2BF6F1855}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D77EB3E9-7564-4AB3-A327-F3C634F2155E} = {30297456-3C80-4E9A-9A75-628FDD30430D}
+		{536466DB-3414-407D-81EF-5A2EAC9D7C41} = {386B5998-711D-4FF2-B718-8B32B918B018}
+		{7A20D81D-7201-4E26-B3FF-43DDA3484DF6} = {7AA1FA53-225F-4CB2-8BD6-D4282167476D}
+		{B51738D8-0941-4D20-87CC-11E2BF6F1855} = {1C62EC61-CAB6-46B5-84D4-3675DC94F9A3}
+	EndGlobalSection
+EndGlobal

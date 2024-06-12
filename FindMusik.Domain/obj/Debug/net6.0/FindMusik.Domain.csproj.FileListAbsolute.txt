@@ -1,0 +1,15 @@
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Domain/bin/Debug/net6.0/FindMusik.Domain.deps.json
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Domain/bin/Debug/net6.0/FindMusik.Domain.dll
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Domain/bin/Debug/net6.0/FindMusik.Domain.pdb
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Domain/bin/Debug/net6.0/YoutubeExplode.dll
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Domain/bin/Debug/net6.0/YoutubeExplode.xml
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Domain/obj/Debug/net6.0/FindMusik.Domain.csproj.AssemblyReference.cache
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Domain/obj/Debug/net6.0/FindMusik.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Domain/obj/Debug/net6.0/FindMusik.Domain.AssemblyInfoInputs.cache
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Domain/obj/Debug/net6.0/FindMusik.Domain.AssemblyInfo.cs
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Domain/obj/Debug/net6.0/FindMusik.Domain.csproj.CoreCompileInputs.cache
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Domain/obj/Debug/net6.0/FindMusik.Domain.csproj.CopyComplete
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Domain/obj/Debug/net6.0/FindMusik.Domain.dll
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Domain/obj/Debug/net6.0/refint/FindMusik.Domain.dll
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Domain/obj/Debug/net6.0/FindMusik.Domain.pdb
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Domain/obj/Debug/net6.0/ref/FindMusik.Domain.dll

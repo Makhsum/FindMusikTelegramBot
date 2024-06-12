@@ -1,0 +1,194 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/makhsum/RiderProjects/FindMusik/FindMusik.Application/FindMusik.Application.csproj": {}
+  },
+  "projects": {
+    "/home/makhsum/RiderProjects/FindMusik/FindMusik.Application/FindMusik.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/makhsum/RiderProjects/FindMusik/FindMusik.Application/FindMusik.Application.csproj",
+        "projectName": "FindMusik.Application",
+        "projectPath": "/home/makhsum/RiderProjects/FindMusik/FindMusik.Application/FindMusik.Application.csproj",
+        "packagesPath": "/home/makhsum/.nuget/packages/",
+        "outputPath": "/home/makhsum/RiderProjects/FindMusik/FindMusik.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/makhsum/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/makhsum/RiderProjects/FindMusik/FindMusik.Domain/FindMusik.Domain.csproj": {
+                "projectPath": "/home/makhsum/RiderProjects/FindMusik/FindMusik.Domain/FindMusik.Domain.csproj"
+              },
+              "/home/makhsum/RiderProjects/FindMusik/FindMusik.Infrastructure/FindMusik.Infrastructure.csproj": {
+                "projectPath": "/home/makhsum/RiderProjects/FindMusik/FindMusik.Infrastructure/FindMusik.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Telegram.Bot": {
+              "target": "Package",
+              "version": "[19.0.0, )"
+            },
+            "YoutubeExplode": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.105/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/makhsum/RiderProjects/FindMusik/FindMusik.Domain/FindMusik.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/makhsum/RiderProjects/FindMusik/FindMusik.Domain/FindMusik.Domain.csproj",
+        "projectName": "FindMusik.Domain",
+        "projectPath": "/home/makhsum/RiderProjects/FindMusik/FindMusik.Domain/FindMusik.Domain.csproj",
+        "packagesPath": "/home/makhsum/.nuget/packages/",
+        "outputPath": "/home/makhsum/RiderProjects/FindMusik/FindMusik.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/makhsum/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.105/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/makhsum/RiderProjects/FindMusik/FindMusik.Infrastructure/FindMusik.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/makhsum/RiderProjects/FindMusik/FindMusik.Infrastructure/FindMusik.Infrastructure.csproj",
+        "projectName": "FindMusik.Infrastructure",
+        "projectPath": "/home/makhsum/RiderProjects/FindMusik/FindMusik.Infrastructure/FindMusik.Infrastructure.csproj",
+        "packagesPath": "/home/makhsum/.nuget/packages/",
+        "outputPath": "/home/makhsum/RiderProjects/FindMusik/FindMusik.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/makhsum/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/makhsum/RiderProjects/FindMusik/FindMusik.Domain/FindMusik.Domain.csproj": {
+                "projectPath": "/home/makhsum/RiderProjects/FindMusik/FindMusik.Domain/FindMusik.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.105/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

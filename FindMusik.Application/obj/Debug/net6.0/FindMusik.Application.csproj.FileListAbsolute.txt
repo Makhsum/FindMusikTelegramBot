@@ -1,0 +1,17 @@
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Application/bin/Debug/net6.0/FindMusik.Application.deps.json
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Application/bin/Debug/net6.0/FindMusik.Application.dll
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Application/bin/Debug/net6.0/FindMusik.Application.pdb
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Application/obj/Debug/net6.0/FindMusik.Application.csproj.AssemblyReference.cache
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Application/obj/Debug/net6.0/FindMusik.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Application/obj/Debug/net6.0/FindMusik.Application.AssemblyInfoInputs.cache
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Application/obj/Debug/net6.0/FindMusik.Application.AssemblyInfo.cs
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Application/obj/Debug/net6.0/FindMusik.Application.csproj.CoreCompileInputs.cache
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Application/obj/Debug/net6.0/FindMusik.Application.dll
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Application/obj/Debug/net6.0/refint/FindMusik.Application.dll
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Application/obj/Debug/net6.0/FindMusik.Application.pdb
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Application/obj/Debug/net6.0/ref/FindMusik.Application.dll
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Application/bin/Debug/net6.0/FindMusik.Domain.dll
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Application/bin/Debug/net6.0/FindMusik.Infrastructure.dll
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Application/bin/Debug/net6.0/FindMusik.Domain.pdb
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Application/bin/Debug/net6.0/FindMusik.Infrastructure.pdb
+/home/makhsum/RiderProjects/FindMusik/FindMusik.Application/obj/Debug/net6.0/FindMusik.Application.csproj.CopyComplete

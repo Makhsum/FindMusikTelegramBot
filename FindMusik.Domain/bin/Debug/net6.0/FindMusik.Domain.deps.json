@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FindMusik.Domain/1.0.0": {
+        "dependencies": {
+          "YoutubeExplode": "6.0.1.0"
+        },
+        "runtime": {
+          "FindMusik.Domain.dll": {}
+        }
+      },
+      "YoutubeExplode/6.0.1.0": {
+        "runtime": {
+          "YoutubeExplode.dll": {
+            "assemblyVersion": "6.0.1.0",
+            "fileVersion": "6.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FindMusik.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YoutubeExplode/6.0.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
